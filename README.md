@@ -43,9 +43,6 @@
 <a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
 <a href="https:" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> 
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact" alt="myself-karthick" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en" alt="myself-karthick" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&" alt="myself-karthick" /></p>
