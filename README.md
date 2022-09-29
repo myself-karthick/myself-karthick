@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures and Front Development**
 
-- 📫 How to reach me: kartthickmohan@gmail.com
+- 📫 How to reach me:
  <a href="kartthickmohan@gmail.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" height="30" width="40"></a>
  ,  <a href="https://t.me/KKKKARTHICKKK" target="_blank"><img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="Telegram" height="30" width="40" ></a>
 - ⚡ Fun fact **Computers are high speed idiots, Programmed by low speed idiots.**
