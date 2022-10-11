@@ -50,3 +50,6 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
+
