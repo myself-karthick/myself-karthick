@@ -21,12 +21,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/karthick-m-70b2aa206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick m" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_myself_karthick_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_myself_karthick_" height="30" width="40" /></a>
- <a href="https://leetcode.com/_myself_karthick_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_myself_karthick_" height="30" width="40" /></a>
 <a href="https://twitter.com/kkKarthickkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkkarthickkk" height="30" width="40" /></a>
 <a href="https://www.facebook.com/karthick.mohan.1848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthick" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Can Create Magic  in:</h3>
 <p align="left">
 <a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
 <a href="#"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> </a>
@@ -44,12 +43,15 @@
 <a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
 <a href="https:" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact" alt="myself-karthick" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en" alt="myself-karthick" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&" alt="myself-karthick" /></p>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact" alt="myself-karthick" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en" alt="myself-karthick" /></p>
 
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto&width=346)](https://leetcode.com/_myself_karthick_)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&" alt="myself-karthick" /></p>
+
+[![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
