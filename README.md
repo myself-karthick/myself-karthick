@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript and Nodejs**
 
-- 💬 Ask me about **Data Structures and Front Development**
+- 💬 Ask me about **Data Structures and Front End Development**
 
 - 📫 How to reach me:
  <a href="mailto:kartthickmohan@gmail.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" height="30" width="40"></a>
