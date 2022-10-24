@@ -1,4 +1,4 @@
-<img src="banner2.jpg">
+<img src="Banner.gif" height="200px" width="100%" >
 <h1 align="center">Hello <<Developers/>Developers/>! </h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
