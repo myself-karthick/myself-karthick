@@ -48,7 +48,7 @@
 <!--<img height="137px" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-karthick&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />-->
 
-<img align="left" height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" /><img height="150px" align="center" hide_border=true src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true" alt="myself-karthick" />
+<img align="left" height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" /><img height="180px" align="center" hide_border=true src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true" alt="myself-karthick" />
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto&width=346)](https://leetcode.com/_myself_karthick_)
 
