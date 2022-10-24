@@ -48,9 +48,10 @@
 <!--<img height="137px" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-karthick&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />-->
 
-<img align="left" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" /><img height="170px" align="center" hide_border=true src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true" alt="myself-karthick" />
+<img align="left" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" />
+<img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" />
 
-<img   align="left" src="https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto&width=346" alt="LeetCode"/>
-<img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&" alt="myself-karthick" />
+<img align="left" src="https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto&width=420&hide_border=true&margin=0" alt="LeetCode"/>
+<img height="170px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" />
 
 [![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
