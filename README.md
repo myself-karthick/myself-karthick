@@ -1,5 +1,5 @@
 <img src="banner2.jpg">
-<h1 align="center">Hi, I'm Karthick👋 </h1>
+<h1 align="center">Hello <<Developers/>Developers/>! </h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-karthick&label=Profile%20views&color=0e75b6&style=flat" alt="myself-karthick" /> </p>
@@ -11,7 +11,7 @@
 - 💬 Ask me about **Data Structures and Front End Development**
 
 - 📫 How to reach me:
- <a href="mailto:kartthickmohan@gmail.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" height="30" width="40"></a>
+ <a href="mailto:kartthickmohan@gmail.com" target="_blank">Email</a>
 - ⚡ Fun fact **Computers are high speed idiots, Programmed by low  speed idiots.**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,6 @@
 <a href="https://www.instagram.com/_myself_karthick_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_myself_karthick_" height="30" width="40" /></a>
 <a href="https://twitter.com/kkKarthickkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkkarthickkk" height="30" width="40" /></a>
 <a href="https://www.facebook.com/karthick.mohan.1848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthick" height="30" width="40" /></a>
-<a href="https://www.facebook.com/karthick.mohan.1848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="karthick" height="30" width="40" /></a>
 <a href="https://t.me/KKKKARTHICKKK" target="_blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="Telegram" height="30" width="40" ></a>
 </p>
 
