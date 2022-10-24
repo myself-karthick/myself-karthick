@@ -45,7 +45,7 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact" alt="myself-karthick" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact" alt="myself-karthick" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en" alt="myself-karthick" /></p>
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto&width=346)](https://leetcode.com/_myself_karthick_)
