@@ -51,7 +51,7 @@
 <img align="left" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" />
 <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" />
 
-<img height="160px" align="left" src="https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto" alt="LeetCode"/>
-<img height="160px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" /></br>
+<img height="140px" align="left" src="https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto" alt="LeetCode"/>
+<img height="140px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" /></br>
 
 [![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
