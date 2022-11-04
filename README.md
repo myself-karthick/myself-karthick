@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kkkarthickkk" target="blank"><img src="https://img.shields.io/twitter/follow/kkkarthickkk?logo=twitter&style=for-the-badge" alt="kkkarthickkk" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Nodejs **
+- 🌱 I’m currently learning **Javascript and Nodejs**
 
 - 💬 Ask me about **Data Structures and Front End Development**
 
