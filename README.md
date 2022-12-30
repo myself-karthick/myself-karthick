@@ -1,6 +1,6 @@
 <img src="Banner.gif" height="200px" width="100%">
 <h1 align="center">Hello <<Developers/>Developers/>!</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-karthick&label=Profile%20views&color=0e75b6&style=flat" alt="myself-karthick" /> </p>
 
@@ -51,7 +51,7 @@
 <img align="left" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" />
 <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" />
 
-<a href="https://leetcode.com/_myself_karthick_/"><img height="157px" align="left" src="https://leetcode.card.workers.dev/?username=_myself_karthick_&theme=auto" alt="LeetCode"/></a>
+<a href="https://leetcode.com/myself-karthick/"><img height="157px" align="left" src="https://leetcode.card.workers.dev/?username=myself-karthick&theme=auto" alt="LeetCode"/></a>
 <img height="157px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" /></br>
 
-[![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph)
+<!-- [![Karthick's github activity graph](https://activity-graph.herokuapp.com/graph?username=myself-karthick&theme=react-dark)](https://github.com/myself-karthick/github-readme-activity-graph) -->
