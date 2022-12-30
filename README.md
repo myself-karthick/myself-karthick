@@ -16,29 +16,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karthick-m-70b2aa206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick m" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_myself_karthick_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_myself_karthick_" height="30" width="40" /></a>
-<a href="https://twitter.com/kkKarthickkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkkarthickkk" height="30" width="40" /></a>
-<a href="https://www.facebook.com/karthick.mohan.1848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthick" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthick-m-70b2aa206/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="karthick m" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_myself_karthick_/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" alt="_myself_karthick_" height="30" width="40" /></a>
+<a href="https://twitter.com/kkKarthickkk" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter--v3.png" alt="kkkarthickkk" height="30" width="40" /></a>
+<a href="https://www.facebook.com/karthick.mohan.1848" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/facebook-new.png" alt="karthick" height="30" width="40" /></a>
 <a href="https://t.me/KKKKARTHICKKK" target="_blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="Telegram" height="30" width="40" ></a>
 </p>
 
 <h3 align="left">Can Create Magic in:</h3>
 <p align="left">
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-<a href="#"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> </a>
-<a href="#"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" > </a>
+<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/c-programming.png" alt="c" width="40" height="40" /></a>
+<a href="#"  rel="noreferrer"> <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" /> </a>
+<a href="#"  rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/python.png" alt="python" width="40" height="40" /> </a>
+<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png" alt="java" width="40" height="40" > </a>
 <a href="#" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="visual studio code" width="40" height="40">
 </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="#"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />  </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-<a href="#"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />  </a>
-<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
+<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/html-5.png" alt="html5" width="40" height="40" /> </a>
+<a href="#"  rel="noreferrer"> <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40" />  </a>
+<a href="#" rel="noreferrer"> <img src="https://imgs.search.brave.com/FPgyKF-YSZm3dFtynnDr9k-WjaLLCq74j1Ssd6STSqc/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/QUFhYVY0QTd0bUR6/WTVsNFZ5dmtnSGFG/aiZwaWQ9QXBp" alt="javascript" width="40" height="40" /> </a>
+<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="40" height="40" /> </a>
+<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/node-js.png" alt="nodejs" width="40" height="40" /> </a>
+<!-- <a href="#"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />  </a> -->
+<a href="#" rel="noreferrer"> <img src="https://imgs.search.brave.com/axaxhEBo_fS90eax1GpEFbHL0CynnDfao4HDAP3J594/rs:fit:391:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/VFUyV0pvZVY0N2Ix/dEk1TWN6dTJBSGFJ/LSZwaWQ9QXBp" alt="linux" width="40" height="40" /> </a> 
 <a href="https:" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> 
 </p>
 
