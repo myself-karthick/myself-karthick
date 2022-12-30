@@ -38,7 +38,7 @@
 <a href="#" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/node-js.png" alt="nodejs" width="40" height="40" /> </a>
 <!-- <a href="#"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />  </a> -->
 <a href="#" rel="noreferrer"> <img src="https://imgs.search.brave.com/axaxhEBo_fS90eax1GpEFbHL0CynnDfao4HDAP3J594/rs:fit:391:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/VFUyV0pvZVY0N2Ix/dEk1TWN6dTJBSGFJ/LSZwaWQ9QXBp" alt="linux" width="40" height="40" /> </a> 
-<a href="https:" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> 
+<!-- <a href="https:" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>  -->
 </p>
 
 ## 😂 Here is a random joke that'll make you laugh!
