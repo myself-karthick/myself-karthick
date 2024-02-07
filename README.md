@@ -49,6 +49,8 @@
 
 <img align="left" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myself-karthick&show_icons=true&locale=en&layout=compact&hide_border=true" alt="myself-karthick" />
 <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&show_icons=true&locale=en&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" />
+<!--
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=myself-karthick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-karthick&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 
 <a href="https://leetcode.com/myself-karthick/"><img height="157px" align="left" src="https://leetcode.card.workers.dev/?username=myself-karthick&theme=auto" alt="LeetCode"/></a>
 <img height="157px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=myself-karthick&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="myself-karthick" /></br>
